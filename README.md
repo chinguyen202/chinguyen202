@@ -39,6 +39,3 @@
 
 ## Get in touch
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/chinguyen202)
-
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fchinguyen202%2F&labelColor=%232ccce4&countColor=%23f47373)
