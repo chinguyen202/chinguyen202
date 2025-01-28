@@ -1,27 +1,64 @@
-## Hi there 👋
 
-This is my personal GitHub account that I use for course and personal projects. Below you can find some more noteworthy projects and what I'm currently working on.
+## Hi there 👋 I'm Chi
+### A passionate _Software Engineer student_ based in Helsinki Metropolitan Area
+User Experience Advocate. My personal values and years of studying fuel my passion for creating impactful and user-centred solutions with modern tools. I love sharing my knowledge, learning from others and find a common goals to create products to help people.
 
-## About me
+- 🌱 Continuously learning and enhancing my skills at Aalto University.
+- 👯 Looking to join a development team that prioritizes creating inclusive, user-centred solutions.
+- 💬 Ask me about anything.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/chinguyen202/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+### Connect with me
 
-- Interests:
-  - 📱 Mobile Development
-  - :globe_with_meridians: Web Development
-  - ☁️ Cloud Technology
-  
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/chinguyen202/)
 
-- 🌱 Recently I have been learning about...
-  - User-Centre-Design methods
-  - Design of WWW Services
-  - Software Testing and Quality Assurance
-  - .. and many more
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=chinguyen202&layout=compact&theme=tokyonight)](https://github.com/chinguyen202/github-readme-stats)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=chinguyen202&theme=tokyonight)](https://github.com/chinguyen202/github-readme-stats)
 
+### Languages and tools
 
+<table width="320px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-
+<table width="320px">
+  <tbody>
+    <tr>
+      <td width="80px" align="center">
+          <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+      </td>
+      <td width="80px" align="center">
+          <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+      </td>
+      <td width="80px" align="center">
+        <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+      </td>
+    </tr>
+  </tbody>
+</table>
